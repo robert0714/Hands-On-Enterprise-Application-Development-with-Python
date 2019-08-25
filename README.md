@@ -1,6 +1,6 @@
 # Hands-On Enterprise Application Development with Python
 
-<a href="https://www.packtpub.com/application-development/hands-enterprise-application-development-python?utm_source=github&utm_medium=repository&utm_campaign=9781789532364 "><img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B11577_MockupCover.png" alt="Hands-On Enterprise Application Development with Python" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/application-development/hands-enterprise-application-development-python?utm_source=github&utm_medium=repository&utm_campaign=9781789532364 "><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/978178953236420-20copy_0.png" alt="Hands-On Enterprise Application Development with Python" height="256px" align="right"></a>
 
 This is the code repository for [Hands-On Enterprise Application Development with Python](https://www.packtpub.com/application-development/hands-enterprise-application-development-python?utm_source=github&utm_medium=repository&utm_campaign=9781789532364 ), published by Packt.
 
